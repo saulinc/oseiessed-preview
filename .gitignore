@@ -1,0 +1,19 @@
+# Local Netlify folder
+.netlify
+
+# Environment / secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+.cache/
+.parcel-cache/
+
+# macOS
+.DS_Store
