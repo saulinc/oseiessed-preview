@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Osei Essed</title>
+  <meta name="description" content="Osei Essed, musician and composer.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body id="top">
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="nav-name" href="#top">Osei Essed</a>
+    <div class="nav-links">
+      <a href="#top">Home</a>
+      <a href="#about">About</a>
+      <a href="#films">Film</a>
+      <a href="#songs">Songs</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <img class="hero-portrait" src="photos/Osei.jpeg" alt="Osei Essed">
+</header>
+
+<span id="about"></span>
+
+<main>
+  <div id="catalog"></div>
+
+  <section class="contact" id="contact">
+    <h2>Contact Osei Essed</h2>
+    <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="contact">
+      <p class="hp"><label>Leave this field empty <input name="bot-field"></label></p>
+      <input type="text"  name="name"    placeholder="Name *"  aria-label="Name"    required>
+      <input type="email" name="email"   placeholder="Email *" aria-label="Email"   required>
+      <input class="field-wide" type="text" name="subject" placeholder="Subject" aria-label="Subject">
+      <textarea class="field-wide" name="message" placeholder="Message" aria-label="Message"></textarea>
+      <button class="send" type="submit">Send</button>
+    </form>
+  </section>
+</main>
+
+<footer class="footer">
+  <p>© 2026 Osei Essed. All rights reserved.</p>
+</footer>
+
+<div class="scrim" id="scrim"></div>
+
+<div class="bar" id="bar">
+  <img class="bar-art" id="barArt" src="" alt="" title="Open this film">
+  <button class="bar-play" id="barPlay" type="button" aria-label="Play or pause">
+    <svg class="icon-play" viewBox="0 0 12 14" width="11" height="13" fill="currentColor"><polygon points="0,0 12,7 0,14"/></svg>
+    <svg class="icon-pause" viewBox="0 0 12 14" width="11" height="13" fill="currentColor"><rect x="0.5" y="0" width="4" height="14"/><rect x="7.5" y="0" width="4" height="14"/></svg>
+  </button>
+  <div class="bar-main">
+    <div class="bar-title" id="barTitle"></div>
+    <div class="bar-seek" id="barSeek"><div class="bar-fill" id="barFill"></div></div>
+  </div>
+  <div class="bar-times"><span id="barCur">0:00</span><span class="bar-sep">/</span><span id="barDur">0:00</span></div>
+  <button class="bar-close" id="barClose" type="button" aria-label="Stop and hide the player">
+    <svg viewBox="0 0 14 14" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round">
+      <line x1="2" y1="2" x2="12" y2="12"/><line x1="12" y1="2" x2="2" y2="12"/>
+    </svg>
+  </button>
+</div>
+
+<script src="films-fallback.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
