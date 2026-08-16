@@ -21,7 +21,9 @@ read the JSON files.
 `films.json` holds a `sections` array and the page builds one grid per section,
 four across on desktop:
 
-    films   Osei as composer. Items are films, 2:3 poster art, shape "poster".
+    films   Osei as composer. Six real films with their real poster art.
+            Track titles and durations are stand ins until the cue sheets
+            and audio arrive. Shape "poster", cropped to 2:3.
     songs   Osei as songwriter. Items are his band's records, square cover art,
             shape "cover". Each item carries an `artist` field (The Woes, Big
             Hands Rhythm & Blues Band) which shows on the cover and on hover.
@@ -56,7 +58,9 @@ stops playback and hides it.
 
 1. Poster and cover art: drop a JPG into `posters/` and point that item's
    `poster` field at it in `films.json`. Film art is cropped to 2:3, record
-   covers to a square.
+   covers to a square. Keep the committed files around 900px tall, which is
+   sharp at twice the size they render. Full size originals live in
+   `posters/originals/`, which git ignores.
 2. Portrait: `photos/Osei.jpeg`, set as the hero `src` in `index.html`.
 3. Audio: drop files into `audio/<item>/` matching each track's `audio` field.
 4. Waveforms: generate real peaks with

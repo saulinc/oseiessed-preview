@@ -17,3 +17,6 @@ out/
 
 # macOS
 .DS_Store
+
+# Full size poster originals, kept locally only
+posters/originals/

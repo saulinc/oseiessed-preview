@@ -9,295 +9,281 @@ window.FILMS_FALLBACK = {
       "shape": "poster",
       "items": [
         {
-          "id": "the_long_field",
-          "title": "The Long Field",
-          "year": "2024",
-          "poster": "posters/the_long_field.svg",
+          "id": "becoming_katharine_graham",
+          "title": "Becoming Katharine Graham",
+          "year": "2025",
+          "poster": "posters/becoming_katharine_graham.jpg",
           "tracks": [
             {
-              "title": "Opening Ground",
+              "title": "Main Title",
               "artist": "Osei Essed",
-              "audio": "audio/the_long_field/01_opening_ground.m4a",
-              "peaks": "waveforms/the_long_field_01_opening_ground.json",
-              "duration": 206
+              "audio": "audio/becoming_katharine_graham/01_main_title.m4a",
+              "peaks": "waveforms/becoming_katharine_graham_01_main_title.json",
+              "duration": 168
             },
             {
-              "title": "Fence Line",
+              "title": "The Family Business",
               "artist": "Osei Essed",
-              "audio": "audio/the_long_field/02_fence_line.m4a",
-              "peaks": "waveforms/the_long_field_02_fence_line.json",
-              "duration": 174
+              "audio": "audio/becoming_katharine_graham/02_the_family_business.m4a",
+              "peaks": "waveforms/becoming_katharine_graham_02_the_family_business.json",
+              "duration": 203
             },
             {
-              "title": "What the Season Took",
+              "title": "Pentagon Papers",
               "artist": "Osei Essed",
-              "audio": "audio/the_long_field/03_what_the_season_took.m4a",
-              "peaks": "waveforms/the_long_field_03_what_the_season_took.json",
-              "duration": 233
-            },
-            {
-              "title": "Two Miles of Weather",
-              "artist": "Osei Essed",
-              "audio": "audio/the_long_field/04_two_miles_of_weather.m4a",
-              "peaks": "waveforms/the_long_field_04_two_miles_of_weather.json",
-              "duration": 151
-            },
-            {
-              "title": "Harvest, Unfinished",
-              "artist": "Osei Essed",
-              "audio": "audio/the_long_field/05_harvest_unfinished.m4a",
-              "peaks": "waveforms/the_long_field_05_harvest_unfinished.json",
-              "duration": 268
-            },
-            {
-              "title": "The Long Field",
-              "artist": "Osei Essed",
-              "audio": "audio/the_long_field/06_the_long_field.m4a",
-              "peaks": "waveforms/the_long_field_06_the_long_field.json",
-              "duration": 311
-            }
-          ]
-        },
-        {
-          "id": "salt_and_stone",
-          "title": "Salt and Stone",
-          "year": "2023",
-          "poster": "posters/salt_and_stone.svg",
-          "tracks": [
-            {
-              "title": "Low Tide Theme",
-              "artist": "Osei Essed",
-              "audio": "audio/salt_and_stone/01_low_tide_theme.m4a",
-              "peaks": "waveforms/salt_and_stone_01_low_tide_theme.json",
-              "duration": 189
-            },
-            {
-              "title": "Quarry Song",
-              "artist": "Osei Essed & The Woes",
-              "audio": "audio/salt_and_stone/02_quarry_song.m4a",
-              "peaks": "waveforms/salt_and_stone_02_quarry_song.json",
-              "duration": 222
-            },
-            {
-              "title": "Everything the Sea Keeps",
-              "artist": "Osei Essed",
-              "audio": "audio/salt_and_stone/03_everything_the_sea_keeps.m4a",
-              "peaks": "waveforms/salt_and_stone_03_everything_the_sea_keeps.json",
-              "duration": 264
-            },
-            {
-              "title": "Breakwater",
-              "artist": "Osei Essed",
-              "audio": "audio/salt_and_stone/04_breakwater.m4a",
-              "peaks": "waveforms/salt_and_stone_04_breakwater.json",
-              "duration": 147
-            },
-            {
-              "title": "Salt and Stone",
-              "artist": "Osei Essed & The Woes",
-              "audio": "audio/salt_and_stone/05_salt_and_stone.m4a",
-              "peaks": "waveforms/salt_and_stone_05_salt_and_stone.json",
-              "duration": 296
-            }
-          ]
-        },
-        {
-          "id": "everything_we_carried",
-          "title": "Everything We Carried",
-          "year": "2022",
-          "poster": "posters/everything_we_carried.svg",
-          "tracks": [
-            {
-              "title": "First Light, Departure",
-              "artist": "Osei Essed",
-              "audio": "audio/everything_we_carried/01_first_light_departure.m4a",
-              "peaks": "waveforms/everything_we_carried_01_first_light_departure.json",
-              "duration": 198
-            },
-            {
-              "title": "Paper and Thread",
-              "artist": "Osei Essed",
-              "audio": "audio/everything_we_carried/02_paper_and_thread.m4a",
-              "peaks": "waveforms/everything_we_carried_02_paper_and_thread.json",
-              "duration": 172
-            },
-            {
-              "title": "The Border Waltz",
-              "artist": "Osei Essed & The Woes",
-              "audio": "audio/everything_we_carried/03_the_border_waltz.m4a",
-              "peaks": "waveforms/everything_we_carried_03_the_border_waltz.json",
+              "audio": "audio/becoming_katharine_graham/03_pentagon_papers.m4a",
+              "peaks": "waveforms/becoming_katharine_graham_03_pentagon_papers.json",
               "duration": 241
             },
             {
-              "title": "Everything We Carried",
+              "title": "Going to Print",
               "artist": "Osei Essed",
-              "audio": "audio/everything_we_carried/04_everything_we_carried.m4a",
-              "peaks": "waveforms/everything_we_carried_04_everything_we_carried.json",
-              "duration": 287
+              "audio": "audio/becoming_katharine_graham/04_going_to_print.m4a",
+              "peaks": "waveforms/becoming_katharine_graham_04_going_to_print.json",
+              "duration": 186
+            },
+            {
+              "title": "Katharine",
+              "artist": "Osei Essed",
+              "audio": "audio/becoming_katharine_graham/05_katharine.m4a",
+              "peaks": "waveforms/becoming_katharine_graham_05_katharine.json",
+              "duration": 227
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/becoming_katharine_graham/06_end_credits.m4a",
+              "peaks": "waveforms/becoming_katharine_graham_06_end_credits.json",
+              "duration": 264
             }
           ]
         },
         {
-          "id": "northbound",
-          "title": "Northbound",
-          "year": "2021",
-          "poster": "posters/northbound.svg",
+          "id": "silent_witness",
+          "title": "Silent Witness",
+          "year": "2023",
+          "poster": "posters/silent_witness.jpg",
           "tracks": [
             {
-              "title": "Leaving in the Dark",
+              "title": "Main Title",
               "artist": "Osei Essed",
-              "audio": "audio/northbound/01_leaving_in_the_dark.m4a",
-              "peaks": "waveforms/northbound_01_leaving_in_the_dark.json",
-              "duration": 163
+              "audio": "audio/silent_witness/01_main_title.m4a",
+              "peaks": "waveforms/silent_witness_01_main_title.json",
+              "duration": 152
             },
             {
-              "title": "Freight",
-              "artist": "Big Hands Rhythm & Blues Band",
-              "audio": "audio/northbound/02_freight.m4a",
-              "peaks": "waveforms/northbound_02_freight.json",
-              "duration": 211
-            },
-            {
-              "title": "Cold Platform Blues",
-              "artist": "Big Hands Rhythm & Blues Band",
-              "audio": "audio/northbound/03_cold_platform_blues.m4a",
-              "peaks": "waveforms/northbound_03_cold_platform_blues.json",
-              "duration": 194
-            },
-            {
-              "title": "A Room in Chicago",
+              "title": "Archive",
               "artist": "Osei Essed",
-              "audio": "audio/northbound/04_a_room_in_chicago.m4a",
-              "peaks": "waveforms/northbound_04_a_room_in_chicago.json",
-              "duration": 228
+              "audio": "audio/silent_witness/02_archive.m4a",
+              "peaks": "waveforms/silent_witness_02_archive.json",
+              "duration": 198
             },
             {
-              "title": "Letters Going South",
+              "title": "Testimony",
               "artist": "Osei Essed",
-              "audio": "audio/northbound/05_letters_going_south.m4a",
-              "peaks": "waveforms/northbound_05_letters_going_south.json",
-              "duration": 256
+              "audio": "audio/silent_witness/03_testimony.m4a",
+              "peaks": "waveforms/silent_witness_03_testimony.json",
+              "duration": 231
             },
             {
-              "title": "The Line Above",
-              "artist": "Osei Essed & The Woes",
-              "audio": "audio/northbound/06_the_line_above.m4a",
-              "peaks": "waveforms/northbound_06_the_line_above.json",
-              "duration": 183
-            },
-            {
-              "title": "Sun on the Third Day",
-              "artist": "Big Hands Rhythm & Blues Band",
-              "audio": "audio/northbound/07_sun_on_the_third_day.m4a",
-              "peaks": "waveforms/northbound_07_sun_on_the_third_day.json",
-              "duration": 219
-            },
-            {
-              "title": "Northbound",
+              "title": "What Remains",
               "artist": "Osei Essed",
-              "audio": "audio/northbound/08_northbound.m4a",
-              "peaks": "waveforms/northbound_08_northbound.json",
-              "duration": 302
-            }
-          ]
-        },
-        {
-          "id": "a_quiet_inheritance",
-          "title": "A Quiet Inheritance",
-          "year": "2020",
-          "poster": "posters/a_quiet_inheritance.svg",
-          "tracks": [
-            {
-              "title": "The House on Vine",
-              "artist": "Osei Essed",
-              "audio": "audio/a_quiet_inheritance/01_the_house_on_vine.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_01_the_house_on_vine.json",
-              "duration": 177
+              "audio": "audio/silent_witness/04_what_remains.m4a",
+              "peaks": "waveforms/silent_witness_04_what_remains.json",
+              "duration": 176
             },
             {
-              "title": "Grandmother's Radio",
+              "title": "End Credits",
               "artist": "Osei Essed",
-              "audio": "audio/a_quiet_inheritance/02_grandmother_s_radio.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_02_grandmother_s_radio.json",
-              "duration": 205
-            },
-            {
-              "title": "Small Rooms",
-              "artist": "Osei Essed",
-              "audio": "audio/a_quiet_inheritance/03_small_rooms.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_03_small_rooms.json",
-              "duration": 158
-            },
-            {
-              "title": "What We Were Left",
-              "artist": "Osei Essed & The Woes",
-              "audio": "audio/a_quiet_inheritance/04_what_we_were_left.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_04_what_we_were_left.json",
+              "audio": "audio/silent_witness/05_end_credits.m4a",
+              "peaks": "waveforms/silent_witness_05_end_credits.json",
               "duration": 243
+            }
+          ]
+        },
+        {
+          "id": "lincoln_s_dilemma",
+          "title": "Lincoln's Dilemma",
+          "year": "2022",
+          "poster": "posters/lincolns_dilemma.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/lincoln_s_dilemma/01_main_title.m4a",
+              "peaks": "waveforms/lincoln_s_dilemma_01_main_title.json",
+              "duration": 161
             },
             {
-              "title": "Photographs, Boxed",
+              "title": "Emancipation",
               "artist": "Osei Essed",
-              "audio": "audio/a_quiet_inheritance/05_photographs_boxed.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_05_photographs_boxed.json",
+              "audio": "audio/lincoln_s_dilemma/02_emancipation.m4a",
+              "peaks": "waveforms/lincoln_s_dilemma_02_emancipation.json",
+              "duration": 214
+            },
+            {
+              "title": "Frederick Douglass",
+              "artist": "Osei Essed",
+              "audio": "audio/lincoln_s_dilemma/03_frederick_douglass.m4a",
+              "peaks": "waveforms/lincoln_s_dilemma_03_frederick_douglass.json",
+              "duration": 188
+            },
+            {
+              "title": "The Union",
+              "artist": "Osei Essed",
+              "audio": "audio/lincoln_s_dilemma/04_the_union.m4a",
+              "peaks": "waveforms/lincoln_s_dilemma_04_the_union.json",
+              "duration": 236
+            },
+            {
+              "title": "A Nation Divided",
+              "artist": "Osei Essed",
+              "audio": "audio/lincoln_s_dilemma/05_a_nation_divided.m4a",
+              "peaks": "waveforms/lincoln_s_dilemma_05_a_nation_divided.json",
+              "duration": 207
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/lincoln_s_dilemma/06_end_credits.m4a",
+              "peaks": "waveforms/lincoln_s_dilemma_06_end_credits.json",
+              "duration": 252
+            }
+          ]
+        },
+        {
+          "id": "fragments_of_paradise",
+          "title": "Fragments of Paradise",
+          "year": "2022",
+          "poster": "posters/fragments_of_paradise.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/fragments_of_paradise/01_main_title.m4a",
+              "peaks": "waveforms/fragments_of_paradise_01_main_title.json",
+              "duration": 149
+            },
+            {
+              "title": "The Diaries",
+              "artist": "Osei Essed",
+              "audio": "audio/fragments_of_paradise/02_the_diaries.m4a",
+              "peaks": "waveforms/fragments_of_paradise_02_the_diaries.json",
               "duration": 192
             },
             {
-              "title": "Sunday Kitchen",
-              "artist": "Big Hands Rhythm & Blues Band",
-              "audio": "audio/a_quiet_inheritance/06_sunday_kitchen.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_06_sunday_kitchen.json",
-              "duration": 226
+              "title": "Brooklyn, 1949",
+              "artist": "Osei Essed",
+              "audio": "audio/fragments_of_paradise/03_brooklyn_1949.m4a",
+              "peaks": "waveforms/fragments_of_paradise_03_brooklyn_1949.json",
+              "duration": 223
             },
             {
-              "title": "A Quiet Inheritance",
+              "title": "Film Loops",
               "artist": "Osei Essed",
-              "audio": "audio/a_quiet_inheritance/07_a_quiet_inheritance.m4a",
-              "peaks": "waveforms/a_quiet_inheritance_07_a_quiet_inheritance.json",
-              "duration": 274
+              "audio": "audio/fragments_of_paradise/04_film_loops.m4a",
+              "peaks": "waveforms/fragments_of_paradise_04_film_loops.json",
+              "duration": 174
+            },
+            {
+              "title": "Paradise",
+              "artist": "Osei Essed",
+              "audio": "audio/fragments_of_paradise/05_paradise.m4a",
+              "peaks": "waveforms/fragments_of_paradise_05_paradise.json",
+              "duration": 258
             }
           ]
         },
         {
-          "id": "house_of_small_fires",
-          "title": "House of Small Fires",
-          "year": "2019",
-          "poster": "posters/house_of_small_fires.svg",
+          "id": "obama_in_pursuit_of_a_more_perfect_union",
+          "title": "Obama: In Pursuit of a More Perfect Union",
+          "year": "2021",
+          "poster": "posters/obama_in_pursuit_of_a_more_perfect_union.jpg",
           "tracks": [
             {
-              "title": "Kindling",
+              "title": "Main Title",
               "artist": "Osei Essed",
-              "audio": "audio/house_of_small_fires/01_kindling.m4a",
-              "peaks": "waveforms/house_of_small_fires_01_kindling.json",
-              "duration": 144
+              "audio": "audio/obama_in_pursuit_of_a_more_perfect_union/01_main_title.m4a",
+              "peaks": "waveforms/obama_in_pursuit_of_a_more_perfect_union_01_main_title.json",
+              "duration": 166
             },
             {
-              "title": "The Blood and the Bell",
-              "artist": "Osei Essed & The Woes",
-              "audio": "audio/house_of_small_fires/02_the_blood_and_the_bell.m4a",
-              "peaks": "waveforms/house_of_small_fires_02_the_blood_and_the_bell.json",
-              "duration": 237
-            },
-            {
-              "title": "Smoke in the Hallway",
+              "title": "Chicago",
               "artist": "Osei Essed",
-              "audio": "audio/house_of_small_fires/03_smoke_in_the_hallway.m4a",
-              "peaks": "waveforms/house_of_small_fires_03_smoke_in_the_hallway.json",
-              "duration": 201
+              "audio": "audio/obama_in_pursuit_of_a_more_perfect_union/02_chicago.m4a",
+              "peaks": "waveforms/obama_in_pursuit_of_a_more_perfect_union_02_chicago.json",
+              "duration": 209
             },
             {
-              "title": "Best Is Yet to Come",
-              "artist": "Big Hands Rhythm & Blues Band",
-              "audio": "audio/house_of_small_fires/04_best_is_yet_to_come.m4a",
-              "peaks": "waveforms/house_of_small_fires_04_best_is_yet_to_come.json",
-              "duration": 249
-            },
-            {
-              "title": "House of Small Fires",
+              "title": "The Speech",
               "artist": "Osei Essed",
-              "audio": "audio/house_of_small_fires/05_house_of_small_fires.m4a",
-              "peaks": "waveforms/house_of_small_fires_05_house_of_small_fires.json",
-              "duration": 288
+              "audio": "audio/obama_in_pursuit_of_a_more_perfect_union/03_the_speech.m4a",
+              "peaks": "waveforms/obama_in_pursuit_of_a_more_perfect_union_03_the_speech.json",
+              "duration": 231
+            },
+            {
+              "title": "Election Night",
+              "artist": "Osei Essed",
+              "audio": "audio/obama_in_pursuit_of_a_more_perfect_union/04_election_night.m4a",
+              "peaks": "waveforms/obama_in_pursuit_of_a_more_perfect_union_04_election_night.json",
+              "duration": 247
+            },
+            {
+              "title": "Two Terms",
+              "artist": "Osei Essed",
+              "audio": "audio/obama_in_pursuit_of_a_more_perfect_union/05_two_terms.m4a",
+              "peaks": "waveforms/obama_in_pursuit_of_a_more_perfect_union_05_two_terms.json",
+              "duration": 183
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/obama_in_pursuit_of_a_more_perfect_union/06_end_credits.m4a",
+              "peaks": "waveforms/obama_in_pursuit_of_a_more_perfect_union_06_end_credits.json",
+              "duration": 272
+            }
+          ]
+        },
+        {
+          "id": "jim",
+          "title": "Jim",
+          "year": "2016",
+          "poster": "posters/jim.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/jim/01_main_title.m4a",
+              "peaks": "waveforms/jim_01_main_title.json",
+              "duration": 158
+            },
+            {
+              "title": "Rome",
+              "artist": "Osei Essed",
+              "audio": "audio/jim/02_rome.m4a",
+              "peaks": "waveforms/jim_02_rome.json",
+              "duration": 194
+            },
+            {
+              "title": "Letters Home",
+              "artist": "Osei Essed",
+              "audio": "audio/jim/03_letters_home.m4a",
+              "peaks": "waveforms/jim_03_letters_home.json",
+              "duration": 226
+            },
+            {
+              "title": "The Long Wait",
+              "artist": "Osei Essed",
+              "audio": "audio/jim/04_the_long_wait.m4a",
+              "peaks": "waveforms/jim_04_the_long_wait.json",
+              "duration": 211
+            },
+            {
+              "title": "Homecoming",
+              "artist": "Osei Essed",
+              "audio": "audio/jim/05_homecoming.m4a",
+              "peaks": "waveforms/jim_05_homecoming.json",
+              "duration": 268
             }
           ]
         }
