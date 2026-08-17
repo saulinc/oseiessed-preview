@@ -9,6 +9,56 @@ window.FILMS_FALLBACK = {
       "shape": "poster",
       "items": [
         {
+          "id": "being_eddie",
+          "title": "Being Eddie",
+          "year": "2025",
+          "poster": "posters/being_eddie.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/being_eddie/01_main_title.m4a",
+              "peaks": "waveforms/being_eddie_01_main_title.json",
+              "duration": 157
+            },
+            {
+              "title": "Delirious",
+              "artist": "Osei Essed",
+              "audio": "audio/being_eddie/02_delirious.m4a",
+              "peaks": "waveforms/being_eddie_02_delirious.json",
+              "duration": 212
+            },
+            {
+              "title": "Saturday Night",
+              "artist": "Osei Essed",
+              "audio": "audio/being_eddie/03_saturday_night.m4a",
+              "peaks": "waveforms/being_eddie_03_saturday_night.json",
+              "duration": 188
+            },
+            {
+              "title": "The Hollywood Years",
+              "artist": "Osei Essed",
+              "audio": "audio/being_eddie/04_the_hollywood_years.m4a",
+              "peaks": "waveforms/being_eddie_04_the_hollywood_years.json",
+              "duration": 244
+            },
+            {
+              "title": "Family Man",
+              "artist": "Osei Essed",
+              "audio": "audio/being_eddie/05_family_man.m4a",
+              "peaks": "waveforms/being_eddie_05_family_man.json",
+              "duration": 196
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/being_eddie/06_end_credits.m4a",
+              "peaks": "waveforms/being_eddie_06_end_credits.json",
+              "duration": 261
+            }
+          ]
+        },
+        {
           "id": "becoming_katharine_graham",
           "title": "Becoming Katharine Graham",
           "year": "2025",
@@ -102,6 +152,92 @@ window.FILMS_FALLBACK = {
           ]
         },
         {
+          "id": "saint_x",
+          "title": "Saint X",
+          "year": "2023",
+          "poster": "posters/saint_x.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/saint_x/01_main_title.m4a",
+              "peaks": "waveforms/saint_x_01_main_title.json",
+              "duration": 164
+            },
+            {
+              "title": "The Island",
+              "artist": "Osei Essed",
+              "audio": "audio/saint_x/02_the_island.m4a",
+              "peaks": "waveforms/saint_x_02_the_island.json",
+              "duration": 209
+            },
+            {
+              "title": "Something in the Water",
+              "artist": "Osei Essed",
+              "audio": "audio/saint_x/03_something_in_the_water.m4a",
+              "peaks": "waveforms/saint_x_03_something_in_the_water.json",
+              "duration": 237
+            },
+            {
+              "title": "Two Sisters",
+              "artist": "Osei Essed",
+              "audio": "audio/saint_x/04_two_sisters.m4a",
+              "peaks": "waveforms/saint_x_04_two_sisters.json",
+              "duration": 181
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/saint_x/05_end_credits.m4a",
+              "peaks": "waveforms/saint_x_05_end_credits.json",
+              "duration": 248
+            }
+          ]
+        },
+        {
+          "id": "crater",
+          "title": "Crater",
+          "year": "2023",
+          "poster": "posters/crater.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/crater/01_main_title.m4a",
+              "peaks": "waveforms/crater_01_main_title.json",
+              "duration": 171
+            },
+            {
+              "title": "The Colony",
+              "artist": "Osei Essed",
+              "audio": "audio/crater/02_the_colony.m4a",
+              "peaks": "waveforms/crater_02_the_colony.json",
+              "duration": 195
+            },
+            {
+              "title": "Leaving the Dome",
+              "artist": "Osei Essed",
+              "audio": "audio/crater/03_leaving_the_dome.m4a",
+              "peaks": "waveforms/crater_03_leaving_the_dome.json",
+              "duration": 228
+            },
+            {
+              "title": "Across the Surface",
+              "artist": "Osei Essed",
+              "audio": "audio/crater/04_across_the_surface.m4a",
+              "peaks": "waveforms/crater_04_across_the_surface.json",
+              "duration": 256
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/crater/05_end_credits.m4a",
+              "peaks": "waveforms/crater_05_end_credits.json",
+              "duration": 239
+            }
+          ]
+        },
+        {
           "id": "lincoln_s_dilemma",
           "title": "Lincoln's Dilemma",
           "year": "2022",
@@ -148,6 +284,49 @@ window.FILMS_FALLBACK = {
               "audio": "audio/lincoln_s_dilemma/06_end_credits.m4a",
               "peaks": "waveforms/lincoln_s_dilemma_06_end_credits.json",
               "duration": 252
+            }
+          ]
+        },
+        {
+          "id": "the_lincoln_project",
+          "title": "The Lincoln Project",
+          "year": "2022",
+          "poster": "posters/the_lincoln_project.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/the_lincoln_project/01_main_title.m4a",
+              "peaks": "waveforms/the_lincoln_project_01_main_title.json",
+              "duration": 159
+            },
+            {
+              "title": "The Ad Room",
+              "artist": "Osei Essed",
+              "audio": "audio/the_lincoln_project/02_the_ad_room.m4a",
+              "peaks": "waveforms/the_lincoln_project_02_the_ad_room.json",
+              "duration": 201
+            },
+            {
+              "title": "Going Viral",
+              "artist": "Osei Essed",
+              "audio": "audio/the_lincoln_project/03_going_viral.m4a",
+              "peaks": "waveforms/the_lincoln_project_03_going_viral.json",
+              "duration": 186
+            },
+            {
+              "title": "The Reckoning",
+              "artist": "Osei Essed",
+              "audio": "audio/the_lincoln_project/04_the_reckoning.m4a",
+              "peaks": "waveforms/the_lincoln_project_04_the_reckoning.json",
+              "duration": 233
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/the_lincoln_project/05_end_credits.m4a",
+              "peaks": "waveforms/the_lincoln_project_05_end_credits.json",
+              "duration": 245
             }
           ]
         },
@@ -245,6 +424,56 @@ window.FILMS_FALLBACK = {
           ]
         },
         {
+          "id": "always_in_season",
+          "title": "Always in Season",
+          "year": "2019",
+          "poster": "posters/always_in_season.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/always_in_season/01_main_title.m4a",
+              "peaks": "waveforms/always_in_season_01_main_title.json",
+              "duration": 163
+            },
+            {
+              "title": "Monroe",
+              "artist": "Osei Essed",
+              "audio": "audio/always_in_season/02_monroe.m4a",
+              "peaks": "waveforms/always_in_season_02_monroe.json",
+              "duration": 217
+            },
+            {
+              "title": "The Search",
+              "artist": "Osei Essed",
+              "audio": "audio/always_in_season/03_the_search.m4a",
+              "peaks": "waveforms/always_in_season_03_the_search.json",
+              "duration": 189
+            },
+            {
+              "title": "Testimony",
+              "artist": "Osei Essed",
+              "audio": "audio/always_in_season/04_testimony.m4a",
+              "peaks": "waveforms/always_in_season_04_testimony.json",
+              "duration": 241
+            },
+            {
+              "title": "What Is Owed",
+              "artist": "Osei Essed",
+              "audio": "audio/always_in_season/05_what_is_owed.m4a",
+              "peaks": "waveforms/always_in_season_05_what_is_owed.json",
+              "duration": 205
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/always_in_season/06_end_credits.m4a",
+              "peaks": "waveforms/always_in_season_06_end_credits.json",
+              "duration": 254
+            }
+          ]
+        },
+        {
           "id": "jim",
           "title": "Jim",
           "year": "2016",
@@ -286,6 +515,92 @@ window.FILMS_FALLBACK = {
               "duration": 268
             }
           ]
+        },
+        {
+          "id": "tower",
+          "title": "Tower",
+          "year": "2016",
+          "poster": "posters/tower.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/tower/01_main_title.m4a",
+              "peaks": "waveforms/tower_01_main_title.json",
+              "duration": 151
+            },
+            {
+              "title": "The Plaza",
+              "artist": "Osei Essed",
+              "audio": "audio/tower/02_the_plaza.m4a",
+              "peaks": "waveforms/tower_02_the_plaza.json",
+              "duration": 198
+            },
+            {
+              "title": "Getting to Her",
+              "artist": "Osei Essed",
+              "audio": "audio/tower/03_getting_to_her.m4a",
+              "peaks": "waveforms/tower_03_getting_to_her.json",
+              "duration": 226
+            },
+            {
+              "title": "Ninety Six Minutes",
+              "artist": "Osei Essed",
+              "audio": "audio/tower/04_ninety_six_minutes.m4a",
+              "peaks": "waveforms/tower_04_ninety_six_minutes.json",
+              "duration": 183
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/tower/05_end_credits.m4a",
+              "peaks": "waveforms/tower_05_end_credits.json",
+              "duration": 237
+            }
+          ]
+        },
+        {
+          "id": "finders_keepers",
+          "title": "Finders Keepers",
+          "year": "2015",
+          "poster": "posters/finders_keepers.jpg",
+          "tracks": [
+            {
+              "title": "Main Title",
+              "artist": "Osei Essed",
+              "audio": "audio/finders_keepers/01_main_title.m4a",
+              "peaks": "waveforms/finders_keepers_01_main_title.json",
+              "duration": 146
+            },
+            {
+              "title": "The Auction",
+              "artist": "Osei Essed",
+              "audio": "audio/finders_keepers/02_the_auction.m4a",
+              "peaks": "waveforms/finders_keepers_02_the_auction.json",
+              "duration": 192
+            },
+            {
+              "title": "Court Days",
+              "artist": "Osei Essed",
+              "audio": "audio/finders_keepers/03_court_days.m4a",
+              "peaks": "waveforms/finders_keepers_03_court_days.json",
+              "duration": 215
+            },
+            {
+              "title": "Letting Go",
+              "artist": "Osei Essed",
+              "audio": "audio/finders_keepers/04_letting_go.m4a",
+              "peaks": "waveforms/finders_keepers_04_letting_go.json",
+              "duration": 229
+            },
+            {
+              "title": "End Credits",
+              "artist": "Osei Essed",
+              "audio": "audio/finders_keepers/05_end_credits.m4a",
+              "peaks": "waveforms/finders_keepers_05_end_credits.json",
+              "duration": 243
+            }
+          ]
         }
       ]
     },
@@ -298,7 +613,7 @@ window.FILMS_FALLBACK = {
           "id": "the_bird_and_the_bear",
           "title": "The Bird and the Bear",
           "year": "2018",
-          "poster": "posters/the_bird_and_the_bear.svg",
+          "poster": "posters/the_bird_and_the_bear.jpeg",
           "tracks": [
             {
               "title": "Let Me Ride",

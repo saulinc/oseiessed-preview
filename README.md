@@ -21,7 +21,7 @@ read the JSON files.
 `films.json` holds a `sections` array and the page builds one grid per section,
 four across on desktop:
 
-    films   Osei as composer. Six real films with their real poster art.
+    films   Osei as composer. Thirteen real titles with their real poster art.
             Track titles and durations are stand ins until the cue sheets
             and audio arrive. Shape "poster", cropped to 2:3.
     songs   Osei as songwriter. Items are his band's records, square cover art,
