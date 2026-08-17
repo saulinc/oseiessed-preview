@@ -101,14 +101,15 @@ img { max-width: 100%; }
   padding: 40px var(--gutter) 0;
 }
 
-/* Wide banner, edges lined up with the nav and the poster grids. The source
-   is 3:1, so nothing is cropped until the screen narrows. */
+/* Wide banner, edges lined up with the nav and the poster grids. No aspect
+   ratio here, so the full frame shows uncropped; the media queries below
+   crop it once the screen is too narrow to carry a wide image. */
 .hero-image {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 1;
+  height: auto;
   object-fit: cover;
-  object-position: 38% center;
+  object-position: 40% center;
 }
 
 /* ── CATALOG SECTIONS ────────────────────────────────────────────────────── */
@@ -588,8 +589,8 @@ body.has-bar { padding-bottom: 74px; }
   .nav-inner { flex-direction: column; justify-content: center; gap: 10px; }
   .nav-name { font-size: 28px; }
 
-  /* a 3:1 strip is too thin to carry a phone screen, so crop in */
-  .hero-image { aspect-ratio: 16 / 9; }
+  /* a wide frame gets thin on a phone, so crop in and keep him in shot */
+  .hero-image { aspect-ratio: 3 / 2; }
 
   .panel-inner { flex-direction: column; padding: 20px; }
   .panel-art { width: 150px; margin: 0 auto; }

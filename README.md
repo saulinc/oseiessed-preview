@@ -50,7 +50,7 @@ stops playback and hides it.
     films.json          sections, items and track data (source of truth)
     films-fallback.js   generated copy of films.json for the file:// case
     posters/            placeholder poster and cover art (SVG)
-    photos/Osei.jpeg    hero portrait
+    photos/Osei3.jpeg   hero banner (Osei.jpeg and Osei2.jpeg are earlier picks)
     waveforms/          placeholder peak data, one JSON per track
     audio/              empty, drop real audio here
 
@@ -61,7 +61,8 @@ stops playback and hides it.
    covers to a square. Keep the committed files around 900px tall, which is
    sharp at twice the size they render. Full size originals live in
    `posters/originals/`, which git ignores.
-2. Portrait: `photos/Osei.jpeg`, set as the hero `src` in `index.html`.
+2. Hero: `photos/Osei3.jpeg`, set as the hero `src` in `index.html`. A wide
+   frame suits it; narrow screens crop to 3:2 then 4:3.
 3. Audio: drop files into `audio/<item>/` matching each track's `audio` field.
 4. Waveforms: generate real peaks with
    `audiowaveform -i track.m4a -o track.json --pixels-per-second 20 -b 8`
